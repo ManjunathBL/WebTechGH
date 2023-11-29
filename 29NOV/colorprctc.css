@@ -1,0 +1,18 @@
+h1{
+    color: darkcyan;
+}
+h2{
+    background-color: lightgreen ;
+}
+h3{
+    color:rgb(0,250,0) ;
+}
+h4{
+    color:rgba(0, 0, 250, 1) ;
+}
+ol{
+    color: hsl(180, 25%, 50%);
+}
+ul{
+   background-color: hsla(90,0%,0%,0.5);
+}
